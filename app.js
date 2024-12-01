@@ -304,8 +304,8 @@ var data =  `
               <div class="card h-100 rounded ">
                 <img src="${details.img}" class="card-img-top" alt="..." width="300">
                 <div class="card-body bg-light">
-                  <h5 class="card-title">${details.name}</h5>
-                  <h6 class="card-text text-danger">${details.price}</h6>
+                  <h4 class="card-title">${details.name}</h4>
+                  <h5 class="card-text text-danger">${details.price}</h5>
                   <p class="card-text text-success">${details.category}</p>
                   <button id="details" class="card-text text-info btn" >See Details...</button>
                   
